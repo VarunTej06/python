@@ -1,3 +1,5 @@
+# Youtube: https://www.youtube.com/watch?si=HNq2HzhlahVirB02&v=Ej_02ICOIgs&feature=youtu.be
+
 # A class is a blueprint for creating objects. It defines what attributes/data/methods/functions that the objects create using this class
 class Dog:
     # Methods or Functions defines what actions or behavior the object can perform. 
