@@ -24,7 +24,7 @@ print(v[-1])
 # Kiran
 # Kiran
 
-print(v[0:4:2]) # [Start, Stop, Skip] - Output: [1, 8.6]
+print(v[0:4:2]) # Output: [Start, Stop, Skip] - Output: [1, 8.6]
 '''
 start = 0 → start from index 0 (the first element)
 
